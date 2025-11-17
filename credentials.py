@@ -1,0 +1,6 @@
+# --- CONFIGURATION ---
+
+CONFIGURATION_SHOP_URL = "amangupta21je0083.myshopify.com" 
+CONFIGURATION_ADMIN_API_TOKEN = put_your_api_key_here 
+CONFIGURATION_EXCEL_FILE = "products.xlsx"
+CONFIGURATION_API_VERSION = "2024-01" 
