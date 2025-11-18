@@ -7,7 +7,7 @@ import os
 import base64
 from pathlib import Path
 
-from.credentials import *
+from credentials import *
 
 
 SHOP_URL = CONFIGURATION_SHOP_URL
